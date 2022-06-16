@@ -10,4 +10,5 @@ using namespace std;
 int  main ()
 {
 	cout << "hello 1.0 version" << endl;
+	return 0;
 }
