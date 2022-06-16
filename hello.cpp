@@ -11,4 +11,5 @@ int  main ()
 {
 	cout << "hello 1.0 version" << endl;
 
+	cout << "add version" << endl;
 }
