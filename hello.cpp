@@ -10,7 +10,7 @@ using namespace std;
 int  main ()
 {
 	cout << "hello 1.0 version" << endl;
-
+	cout << "pull test" << endl;
 	cout << "master add one line" << endl;
 	cout << "add version" << endl;
 }
